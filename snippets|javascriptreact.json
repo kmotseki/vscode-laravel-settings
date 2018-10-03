@@ -1,0 +1,9 @@
+{
+	"export": {
+		"prefix": "ed",
+		"body": [
+			"export default () => "
+		],
+		"description": ""
+	}
+}

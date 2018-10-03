@@ -1,0 +1,13 @@
+{
+	"undefined": {
+		"body": [
+			"/**",
+			"    * @test",
+			"    */",
+			"    public function name()",
+			"    {",
+			"        //",
+			"    }"
+		]
+	}
+}

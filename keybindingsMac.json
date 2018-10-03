@@ -1,1 +1,75 @@
-// Empty
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "cmd+b cmd+r",
+        "command": "phpunit.Test"
+    },
+    {
+        "key": "cmd+b cmd+p",
+        "command": "phpunit.LastTest"
+    },
+    {
+        "key": "shift+cmd+a",
+        "command": "phpunit.TestSuite"
+    },
+    {
+        "key": "cmd+1",
+        "command": "workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "cmd+b",
+        "command": "-workbench.action.toggleSidebarVisibility"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "ctrl+shift+left",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+shift+n",
+        "command": "workbench.action.terminal.new"
+    },
+    {
+        "key": "ctrl+shift+`",
+        "command": "-workbench.action.terminal.new"
+    },
+    {
+        "key": "cmd+r",
+        "command": "better-phpunit.run"
+    },
+    {
+        "key": "cmd+k cmd+r",
+        "command": "-better-phpunit.run"
+    },
+    {
+        "key": "shift+cmd+r",
+        "command": "better-phpunit.run-previous"
+    },
+    {
+        "key": "cmd+k cmd+p",
+        "command": "-better-phpunit.run-previous"
+    },
+    {
+        "key": "shift+cmd+a",
+        "command": "better-phpunit.run-suite"
+    },
+    {
+        "key": "cmd+b cmd+b",
+        "command": "HookyQR.beautifyFile"
+    },
+    {
+        "key": "ctrl+f5",
+        "command": "workbench.action.reloadWindow"
+    },
+    {
+        "key": "shift+cmd+1",
+        "command": "workbench.action.toggleActivityBarVisibility"
+    }
+]

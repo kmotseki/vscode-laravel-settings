@@ -1,1 +1,322 @@
-// Empty
+[
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.6"
+  },
+  {
+    "metadata": {
+      "id": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+      "publisherId": "formulahendry.auto-rename-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-rename-tag",
+    "publisher": "formulahendry",
+    "version": "0.0.15"
+  },
+  {
+    "metadata": {
+      "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+      "publisherId": "HookyQR.beautify",
+      "publisherDisplayName": "HookyQR"
+    },
+    "name": "beautify",
+    "publisher": "HookyQR",
+    "version": "1.4.4"
+  },
+  {
+    "metadata": {
+      "id": "2dd41a16-fc28-4680-a274-a850fa5f1098",
+      "publisherId": "calebporzio.better-phpunit",
+      "publisherDisplayName": "calebporzio"
+    },
+    "name": "better-phpunit",
+    "publisher": "calebporzio",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "b689fcc8-d494-4dbf-a228-2c694a578afc",
+      "publisherId": "alefragnani.Bookmarks",
+      "publisherDisplayName": "alefragnani"
+    },
+    "name": "Bookmarks",
+    "publisher": "alefragnani",
+    "version": "9.1.0"
+  },
+  {
+    "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.60"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.1.2"
+  },
+  {
+    "metadata": {
+      "id": "cc386f71-a95f-48d7-87ea-707c29758a46",
+      "publisherId": "vmsynkov.colonize",
+      "publisherDisplayName": "vmsynkov"
+    },
+    "name": "colonize",
+    "publisher": "vmsynkov",
+    "version": "2.2.2"
+  },
+  {
+    "metadata": {
+      "id": "060828aa-17ab-40d9-9e2d-f8407f5c8d04",
+      "publisherId": "alexdima.copy-relative-path",
+      "publisherDisplayName": "alexdima"
+    },
+    "name": "copy-relative-path",
+    "publisher": "alexdima",
+    "version": "0.0.2"
+  },
+  {
+    "metadata": {
+      "id": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+      "publisherId": "mikestead.dotenv",
+      "publisherDisplayName": "mikestead"
+    },
+    "name": "dotenv",
+    "publisher": "mikestead",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "49c89bb6-0f18-4430-b62e-51bf48a6a2e1",
+      "publisherId": "hwencc.html-tag-wrapper",
+      "publisherDisplayName": "hwencc"
+    },
+    "name": "html-tag-wrapper",
+    "publisher": "hwencc",
+    "version": "0.2.3"
+  },
+  {
+    "metadata": {
+      "id": "a2cec723-5349-460d-9de9-0fd1f8d3456f",
+      "publisherId": "xabikos.JavaScriptSnippets",
+      "publisherDisplayName": "xabikos"
+    },
+    "name": "JavaScriptSnippets",
+    "publisher": "xabikos",
+    "version": "1.7.0"
+  },
+  {
+    "metadata": {
+      "id": "32aada6b-3cbf-4590-ab56-f2c4423d028f",
+      "publisherId": "cjhowe7.laravel-blade",
+      "publisherDisplayName": "cjhowe7"
+    },
+    "name": "laravel-blade",
+    "publisher": "cjhowe7",
+    "version": "1.1.2"
+  },
+  {
+    "metadata": {
+      "id": "853930e5-1159-4957-8a02-1b98ceb3046b",
+      "publisherId": "austenc.laravel-blade-spacer",
+      "publisherDisplayName": "austenc"
+    },
+    "name": "laravel-blade-spacer",
+    "publisher": "austenc",
+    "version": "1.0.2"
+  },
+  {
+    "metadata": {
+      "id": "905ed3e4-00f4-4603-bfb7-c12c516baf85",
+      "publisherId": "austenc.laravel-docs",
+      "publisherDisplayName": "austenc"
+    },
+    "name": "laravel-docs",
+    "publisher": "austenc",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "5db78037-f674-459f-a236-db622c427c5b",
+      "publisherId": "PKief.material-icon-theme",
+      "publisherDisplayName": "PKief"
+    },
+    "name": "material-icon-theme",
+    "publisher": "PKief",
+    "version": "3.6.0"
+  },
+  {
+    "metadata": {
+      "id": "e58f546c-babc-455f-a265-ba40dbd140d4",
+      "publisherId": "sdras.night-owl",
+      "publisherDisplayName": "sdras"
+    },
+    "name": "night-owl",
+    "publisher": "sdras",
+    "version": "0.4.1"
+  },
+  {
+    "metadata": {
+      "id": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8",
+      "publisherId": "christian-kohler.npm-intellisense",
+      "publisherDisplayName": "christian-kohler"
+    },
+    "name": "npm-intellisense",
+    "publisher": "christian-kohler",
+    "version": "1.3.0"
+  },
+  {
+    "metadata": {
+      "id": "b06b65b2-6ea9-4045-b166-54aa63205261",
+      "publisherId": "junstyle.php-cs-fixer",
+      "publisherDisplayName": "junstyle"
+    },
+    "name": "php-cs-fixer",
+    "publisher": "junstyle",
+    "version": "0.1.85"
+  },
+  {
+    "metadata": {
+      "id": "099b6e7d-a38b-4e90-83dd-5281e654d978",
+      "publisherId": "santigarcor.phpunit-extended",
+      "publisherDisplayName": "santigarcor"
+    },
+    "name": "phpunit-extended",
+    "publisher": "santigarcor",
+    "version": "1.0.7"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "1.6.1"
+  },
+  {
+    "metadata": {
+      "id": "d6ba4b7b-539f-456a-b0f6-0348df44cdf3",
+      "publisherId": "nikitaKunevich.snippet-creator",
+      "publisherDisplayName": "nikitaKunevich"
+    },
+    "name": "snippet-creator",
+    "publisher": "nikitaKunevich",
+    "version": "0.0.5"
+  },
+  {
+    "metadata": {
+      "id": "0613db22-abe8-4392-ab49-d450852ab80a",
+      "publisherId": "AiryShift.spaces-inside-braces",
+      "publisherDisplayName": "AiryShift"
+    },
+    "name": "spaces-inside-braces",
+    "publisher": "AiryShift",
+    "version": "0.4.0"
+  },
+  {
+    "metadata": {
+      "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
+      "publisherId": "octref.vetur",
+      "publisherDisplayName": "octref"
+    },
+    "name": "vetur",
+    "publisher": "octref",
+    "version": "0.12.7"
+  },
+  {
+    "metadata": {
+      "id": "dffaf5a1-2219-434b-9d87-cb586fd59260",
+      "publisherId": "Equinusocio.vsc-material-theme",
+      "publisherDisplayName": "Equinusocio"
+    },
+    "name": "vsc-material-theme",
+    "publisher": "Equinusocio",
+    "version": "2.4.2"
+  },
+  {
+    "metadata": {
+      "id": "c46b0018-f317-4b6c-a785-d2039b27338f",
+      "publisherId": "wix.vscode-import-cost",
+      "publisherDisplayName": "wix"
+    },
+    "name": "vscode-import-cost",
+    "publisher": "wix",
+    "version": "2.9.0"
+  },
+  {
+    "metadata": {
+      "id": "ffda6552-0ad5-431b-a4fa-0905a7e4f3f0",
+      "publisherId": "bmewburn.vscode-intelephense-client",
+      "publisherDisplayName": "bmewburn"
+    },
+    "name": "vscode-intelephense-client",
+    "publisher": "bmewburn",
+    "version": "0.8.8"
+  },
+  {
+    "metadata": {
+      "id": "3c6d2422-afcc-482d-a751-08c6ed38ce19",
+      "publisherId": "wmaurer.vscode-jumpy",
+      "publisherDisplayName": "wmaurer"
+    },
+    "name": "vscode-jumpy",
+    "publisher": "wmaurer",
+    "version": "0.3.1"
+  },
+  {
+    "metadata": {
+      "id": "eaee103c-e866-4b73-87f8-3749cab64da2",
+      "publisherId": "alexcvzz.vscode-sqlite",
+      "publisherDisplayName": "alexcvzz"
+    },
+    "name": "vscode-sqlite",
+    "publisher": "alexcvzz",
+    "version": "0.3.1"
+  },
+  {
+    "metadata": {
+      "id": "28fcf0b8-26a5-4e99-9b8d-02e990366c6f",
+      "publisherId": "tombonnike.vscode-status-bar-format-toggle",
+      "publisherDisplayName": "tombonnike"
+    },
+    "name": "vscode-status-bar-format-toggle",
+    "publisher": "tombonnike",
+    "version": "1.4.0"
+  },
+  {
+    "metadata": {
+      "id": "8551ab30-570a-4f12-b988-bccdb9ce8610",
+      "publisherId": "sdras.vue-vscode-extensionpack",
+      "publisherDisplayName": "sdras"
+    },
+    "name": "vue-vscode-extensionpack",
+    "publisher": "sdras",
+    "version": "0.1.3"
+  },
+  {
+    "metadata": {
+      "id": "c8d95916-cf54-455f-b324-cbd887b7d3a8",
+      "publisherId": "sdras.vue-vscode-snippets",
+      "publisherDisplayName": "sdras"
+    },
+    "name": "vue-vscode-snippets",
+    "publisher": "sdras",
+    "version": "1.3.0"
+  }
+]

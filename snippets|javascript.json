@@ -1,0 +1,9 @@
+{
+	"Console.log": {
+		"prefix": "conl",
+		"body": [
+			"console.log(${1:'hello'});"
+		],
+		"description": "Console.log something"
+	}
+}
