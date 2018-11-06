@@ -27,7 +27,7 @@
     },
     "name": "beautify",
     "publisher": "HookyQR",
-    "version": "1.4.4"
+    "version": "1.4.7"
   },
   {
     "metadata": {
@@ -37,7 +37,7 @@
     },
     "name": "better-phpunit",
     "publisher": "calebporzio",
-    "version": "1.0.0"
+    "version": "1.1.1"
   },
   {
     "metadata": {
@@ -67,7 +67,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "3.1.2"
+    "version": "3.2.0"
   },
   {
     "metadata": {
@@ -117,7 +117,7 @@
     },
     "name": "JavaScriptSnippets",
     "publisher": "xabikos",
-    "version": "1.7.0"
+    "version": "1.7.1"
   },
   {
     "metadata": {
@@ -187,7 +187,7 @@
     },
     "name": "php-cs-fixer",
     "publisher": "junstyle",
-    "version": "0.1.85"
+    "version": "0.1.89"
   },
   {
     "metadata": {
@@ -231,13 +231,23 @@
   },
   {
     "metadata": {
+      "id": "513cf511-3894-4ee2-8c34-13ab83ddfd37",
+      "publisherId": "eg2.tslint",
+      "publisherDisplayName": "eg2"
+    },
+    "name": "tslint",
+    "publisher": "eg2",
+    "version": "1.0.40"
+  },
+  {
+    "metadata": {
       "id": "2f5dd8cb-d251-4d70-abfe-ddebcb077483",
       "publisherId": "octref.vetur",
       "publisherDisplayName": "octref"
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.12.7"
+    "version": "0.13.0"
   },
   {
     "metadata": {
@@ -247,7 +257,17 @@
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "2.4.2"
+    "version": "2.5.1"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "1.7.0"
   },
   {
     "metadata": {
