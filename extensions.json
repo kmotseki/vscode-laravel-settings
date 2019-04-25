@@ -27,7 +27,7 @@
     },
     "name": "beautify",
     "publisher": "HookyQR",
-    "version": "1.4.7"
+    "version": "1.4.11"
   },
   {
     "metadata": {
@@ -37,7 +37,7 @@
     },
     "name": "better-phpunit",
     "publisher": "calebporzio",
-    "version": "1.1.1"
+    "version": "1.4.0"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "Bookmarks",
     "publisher": "alefragnani",
-    "version": "9.1.0"
+    "version": "10.4.3"
   },
   {
     "metadata": {
@@ -57,7 +57,7 @@
     },
     "name": "bracket-pair-colorizer",
     "publisher": "CoenraadS",
-    "version": "1.0.60"
+    "version": "1.0.61"
   },
   {
     "metadata": {
@@ -67,7 +67,7 @@
     },
     "name": "code-settings-sync",
     "publisher": "Shan",
-    "version": "3.2.0"
+    "version": "3.2.9"
   },
   {
     "metadata": {
@@ -101,6 +101,56 @@
   },
   {
     "metadata": {
+      "id": "081cd2e9-bc51-4ea3-977e-544bed2e33a8",
+      "publisherId": "bierner.emojisense",
+      "publisherDisplayName": "bierner"
+    },
+    "name": "emojisense",
+    "publisher": "bierner",
+    "version": "0.5.1"
+  },
+  {
+    "metadata": {
+      "id": "9ca01d82-369d-477a-8ea6-8f1d6e7d5de5",
+      "publisherId": "amandeepmittal.expressjs",
+      "publisherDisplayName": "amandeepmittal"
+    },
+    "name": "expressjs",
+    "publisher": "amandeepmittal",
+    "version": "2.0.0"
+  },
+  {
+    "metadata": {
+      "id": "4de763bd-505d-4978-9575-2b7696ecf94e",
+      "publisherId": "eamodio.gitlens",
+      "publisherDisplayName": "eamodio"
+    },
+    "name": "gitlens",
+    "publisher": "eamodio",
+    "version": "9.6.3"
+  },
+  {
+    "metadata": {
+      "id": "d6f6cfea-4b6f-41f4-b571-6ad2ab7918da",
+      "publisherId": "ms-vscode.Go",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "Go",
+    "publisher": "ms-vscode",
+    "version": "0.10.1"
+  },
+  {
+    "metadata": {
+      "id": "fcf0848c-96b3-487a-a655-01aed955a594",
+      "publisherId": "jolaleye.horizon-theme-vscode",
+      "publisherDisplayName": "jolaleye"
+    },
+    "name": "horizon-theme-vscode",
+    "publisher": "jolaleye",
+    "version": "1.8.1"
+  },
+  {
+    "metadata": {
       "id": "49c89bb6-0f18-4430-b62e-51bf48a6a2e1",
       "publisherId": "hwencc.html-tag-wrapper",
       "publisherDisplayName": "hwencc"
@@ -117,7 +167,17 @@
     },
     "name": "JavaScriptSnippets",
     "publisher": "xabikos",
-    "version": "1.7.1"
+    "version": "1.7.2"
+  },
+  {
+    "metadata": {
+      "id": "8ee0c715-ca9e-4ce2-8841-5faa5e0f3255",
+      "publisherId": "andys8.jest-snippets",
+      "publisherDisplayName": "andys8"
+    },
+    "name": "jest-snippets",
+    "publisher": "andys8",
+    "version": "1.7.0"
   },
   {
     "metadata": {
@@ -147,7 +207,7 @@
     },
     "name": "laravel-docs",
     "publisher": "austenc",
-    "version": "1.3.0"
+    "version": "1.4.0"
   },
   {
     "metadata": {
@@ -157,7 +217,17 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.6.0"
+    "version": "3.7.0"
+  },
+  {
+    "metadata": {
+      "id": "4bf45e86-a448-4531-8c01-ef33f4536306",
+      "publisherId": "ms-mssql.mssql",
+      "publisherDisplayName": "ms-mssql"
+    },
+    "name": "mssql",
+    "publisher": "ms-mssql",
+    "version": "1.6.0"
   },
   {
     "metadata": {
@@ -167,7 +237,7 @@
     },
     "name": "night-owl",
     "publisher": "sdras",
-    "version": "0.4.1"
+    "version": "1.1.3"
   },
   {
     "metadata": {
@@ -187,7 +257,27 @@
     },
     "name": "php-cs-fixer",
     "publisher": "junstyle",
-    "version": "0.1.89"
+    "version": "0.1.118"
+  },
+  {
+    "metadata": {
+      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
+      "publisherId": "felixfbecker.php-debug",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-debug",
+    "publisher": "felixfbecker",
+    "version": "1.13.0"
+  },
+  {
+    "metadata": {
+      "id": "5e69f001-f945-4c97-baf0-320d82a153b3",
+      "publisherId": "felixfbecker.php-intellisense",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-intellisense",
+    "publisher": "felixfbecker",
+    "version": "2.3.10"
   },
   {
     "metadata": {
@@ -207,7 +297,17 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "1.6.1"
+    "version": "1.8.1"
+  },
+  {
+    "metadata": {
+      "id": "f1f59ae4-9318-4f3c-a9b5-81b2eaa5f8a5",
+      "publisherId": "ms-python.python",
+      "publisherDisplayName": "ms-python"
+    },
+    "name": "python",
+    "publisher": "ms-python",
+    "version": "2019.4.11987"
   },
   {
     "metadata": {
@@ -237,7 +337,7 @@
     },
     "name": "tslint",
     "publisher": "eg2",
-    "version": "1.0.40"
+    "version": "1.0.43"
   },
   {
     "metadata": {
@@ -247,7 +347,7 @@
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.13.0"
+    "version": "0.19.1"
   },
   {
     "metadata": {
@@ -257,7 +357,17 @@
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "2.5.1"
+    "version": "2.8.2"
+  },
+  {
+    "metadata": {
+      "id": "0479fc1c-3d67-49f9-b087-fb9069afe48f",
+      "publisherId": "PeterJausovec.vscode-docker",
+      "publisherDisplayName": "PeterJausovec"
+    },
+    "name": "vscode-docker",
+    "publisher": "PeterJausovec",
+    "version": "0.6.1"
   },
   {
     "metadata": {
@@ -267,7 +377,27 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.7.0"
+    "version": "1.8.2"
+  },
+  {
+    "metadata": {
+      "id": "829a192d-496c-44ac-87f3-0a84ce36a853",
+      "publisherId": "emmanuelbeziat.vscode-great-icons",
+      "publisherDisplayName": "emmanuelbeziat"
+    },
+    "name": "vscode-great-icons",
+    "publisher": "emmanuelbeziat",
+    "version": "2.1.47"
+  },
+  {
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "vscode-icons-team.vscode-icons",
+      "publisherDisplayName": "vscode-icons-team"
+    },
+    "name": "vscode-icons",
+    "publisher": "vscode-icons-team",
+    "version": "8.6.0"
   },
   {
     "metadata": {
@@ -277,7 +407,7 @@
     },
     "name": "vscode-import-cost",
     "publisher": "wix",
-    "version": "2.9.0"
+    "version": "2.12.0"
   },
   {
     "metadata": {
@@ -287,7 +417,17 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "0.8.8"
+    "version": "1.0.13"
+  },
+  {
+    "metadata": {
+      "id": "a0095eaa-9c78-4f59-be64-7326ee267964",
+      "publisherId": "mrmlnc.vscode-jade-snippets",
+      "publisherDisplayName": "mrmlnc"
+    },
+    "name": "vscode-jade-snippets",
+    "publisher": "mrmlnc",
+    "version": "1.0.1"
   },
   {
     "metadata": {
@@ -307,7 +447,7 @@
     },
     "name": "vscode-sqlite",
     "publisher": "alexcvzz",
-    "version": "0.3.1"
+    "version": "0.6.0"
   },
   {
     "metadata": {
@@ -317,7 +457,27 @@
     },
     "name": "vscode-status-bar-format-toggle",
     "publisher": "tombonnike",
-    "version": "1.4.0"
+    "version": "1.5.0"
+  },
+  {
+    "metadata": {
+      "id": "6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db",
+      "publisherId": "cssho.vscode-svgviewer",
+      "publisherDisplayName": "cssho"
+    },
+    "name": "vscode-svgviewer",
+    "publisher": "cssho",
+    "version": "2.0.0"
+  },
+  {
+    "metadata": {
+      "id": "9b2c953d-6ad4-46d1-b18e-7e5992d1d8a6",
+      "publisherId": "akamud.vscode-theme-onedark",
+      "publisherDisplayName": "akamud"
+    },
+    "name": "vscode-theme-onedark",
+    "publisher": "akamud",
+    "version": "2.1.0"
   },
   {
     "metadata": {
@@ -327,7 +487,7 @@
     },
     "name": "vue-vscode-extensionpack",
     "publisher": "sdras",
-    "version": "0.1.3"
+    "version": "0.2.0"
   },
   {
     "metadata": {
@@ -337,6 +497,6 @@
     },
     "name": "vue-vscode-snippets",
     "publisher": "sdras",
-    "version": "1.3.0"
+    "version": "1.6.0"
   }
 ]
