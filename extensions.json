@@ -17,7 +17,7 @@
     },
     "name": "auto-rename-tag",
     "publisher": "formulahendry",
-    "version": "0.0.15"
+    "version": "0.1.0"
   },
   {
     "metadata": {
@@ -27,7 +27,7 @@
     },
     "name": "beautify",
     "publisher": "HookyQR",
-    "version": "1.4.11"
+    "version": "1.5.0"
   },
   {
     "metadata": {
@@ -47,7 +47,7 @@
     },
     "name": "Bookmarks",
     "publisher": "alefragnani",
-    "version": "10.4.3"
+    "version": "10.4.4"
   },
   {
     "metadata": {
@@ -127,7 +127,7 @@
     },
     "name": "gitlens",
     "publisher": "eamodio",
-    "version": "9.6.3"
+    "version": "9.8.1"
   },
   {
     "metadata": {
@@ -137,7 +137,7 @@
     },
     "name": "Go",
     "publisher": "ms-vscode",
-    "version": "0.10.1"
+    "version": "0.10.2"
   },
   {
     "metadata": {
@@ -197,7 +197,7 @@
     },
     "name": "laravel-blade-spacer",
     "publisher": "austenc",
-    "version": "1.0.2"
+    "version": "1.0.3"
   },
   {
     "metadata": {
@@ -207,7 +207,7 @@
     },
     "name": "laravel-docs",
     "publisher": "austenc",
-    "version": "1.4.0"
+    "version": "1.4.1"
   },
   {
     "metadata": {
@@ -217,7 +217,7 @@
     },
     "name": "material-icon-theme",
     "publisher": "PKief",
-    "version": "3.7.0"
+    "version": "3.8.0"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "php-cs-fixer",
     "publisher": "junstyle",
-    "version": "0.1.118"
+    "version": "0.1.119"
   },
   {
     "metadata": {
@@ -297,7 +297,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "1.8.1"
+    "version": "1.9.0"
   },
   {
     "metadata": {
@@ -307,7 +307,7 @@
     },
     "name": "python",
     "publisher": "ms-python",
-    "version": "2019.4.11987"
+    "version": "2019.5.17517"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "vetur",
     "publisher": "octref",
-    "version": "0.19.1"
+    "version": "0.21.0"
   },
   {
     "metadata": {
@@ -357,7 +357,7 @@
     },
     "name": "vsc-material-theme",
     "publisher": "Equinusocio",
-    "version": "2.8.2"
+    "version": "2.9.0"
   },
   {
     "metadata": {
@@ -367,7 +367,7 @@
     },
     "name": "vscode-docker",
     "publisher": "PeterJausovec",
-    "version": "0.6.1"
+    "version": "0.6.2"
   },
   {
     "metadata": {
@@ -377,7 +377,7 @@
     },
     "name": "vscode-eslint",
     "publisher": "dbaeumer",
-    "version": "1.8.2"
+    "version": "1.9.0"
   },
   {
     "metadata": {
@@ -397,7 +397,7 @@
     },
     "name": "vscode-icons",
     "publisher": "vscode-icons-team",
-    "version": "8.6.0"
+    "version": "8.7.0"
   },
   {
     "metadata": {
@@ -417,7 +417,7 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   {
     "metadata": {
@@ -468,6 +468,26 @@
     "name": "vscode-svgviewer",
     "publisher": "cssho",
     "version": "2.0.0"
+  },
+  {
+    "metadata": {
+      "id": "0210d898-1052-4c26-8db9-defb85f930b3",
+      "publisherId": "sidharthachatterjee.vscode-tailwindcss",
+      "publisherDisplayName": "sidharthachatterjee"
+    },
+    "name": "vscode-tailwindcss",
+    "publisher": "sidharthachatterjee",
+    "version": "0.1.0"
+  },
+  {
+    "metadata": {
+      "id": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+      "publisherId": "bradlc.vscode-tailwindcss",
+      "publisherDisplayName": "bradlc"
+    },
+    "name": "vscode-tailwindcss",
+    "publisher": "bradlc",
+    "version": "0.2.0"
   },
   {
     "metadata": {

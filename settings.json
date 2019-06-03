@@ -1,7 +1,6 @@
 {
   "editor.fontSize": 16,
   "editor.wordWrap": "on",
-  "editor.formatOnSave": true,
   "[javascript]": {
     "editor.formatOnSave": false,
     "editor.formatOnPaste": false
@@ -10,7 +9,7 @@
   "editor.lineHeight": 35,
   "workbench.activityBar.visible": true,
   "material-icon-theme.folders.theme": "specific",
-  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorTheme": "Horizon Italic",
   "editor.minimap.enabled": false,
   "material-icon-theme.folders.color": "#90a4ae",
   "search.useIgnoreFiles": false,
@@ -33,7 +32,6 @@
   "terminal.integrated.shell.osx": "zsh",
   "breadcrumbs.enabled": true,
   "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
-  "editor.formatOnType": false,
   "sync.gist": "a6ec2ea50f3d5244253054a0835deb08",
   "sync.quietSync": false,
   "sync.removeExtensions": true,
@@ -42,7 +40,7 @@
   "sync.autoUpload": false,
   "sync.forceDownload": false,
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.lastDownload": 1555572190126,
+  "php-cs-fixer.lastDownload": 1559117382585,
   "terminal.external.osxExec": "terminal.app",
   "emmet.includeLanguages": {
     "blade": "html"
@@ -82,7 +80,10 @@
   },
   "materialTheme.autoApplyIcons": true,
   "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    "editor.defaultFormatter": "junstyle.php-cs-fixer"
   },
-  "workbench.iconTheme": "material-icon-theme"
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": false
 }
