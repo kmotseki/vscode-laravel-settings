@@ -2,14 +2,15 @@
   "editor.fontSize": 16,
   "editor.wordWrap": "on",
   "[javascript]": {
-    "editor.formatOnSave": false,
-    "editor.formatOnPaste": false
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "editor.formatOnPaste": true,
   "editor.lineHeight": 35,
   "workbench.activityBar.visible": true,
   "material-icon-theme.folders.theme": "specific",
-  "workbench.colorTheme": "Horizon Italic",
+  "workbench.colorTheme": "Material Theme Ocean High Contrast",
   "editor.minimap.enabled": false,
   "material-icon-theme.folders.color": "#90a4ae",
   "search.useIgnoreFiles": false,
@@ -26,7 +27,7 @@
   "material-icon-theme.folders.associations": {},
   "material-icon-theme.languages.associations": {},
   "workbench.statusBar.visible": true,
-  "window.zoomLevel": 0,
+  "window.zoomLevel": 1,
   "terminal.integrated.fontFamily": "Inconsolata for Powerline",
   "terminal.integrated.fontSize": 16,
   "terminal.integrated.shell.osx": "zsh",
@@ -40,10 +41,11 @@
   "sync.autoUpload": false,
   "sync.forceDownload": false,
   "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-  "php-cs-fixer.lastDownload": 1559117382585,
+  "php-cs-fixer.lastDownload": 1564494982822,
   "terminal.external.osxExec": "terminal.app",
   "emmet.includeLanguages": {
-    "blade": "html"
+    "blade": "html",
+    "javascript": "jsx"
   },
   "emojisense.languages": {
     "markdown": true,
@@ -85,5 +87,8 @@
   "workbench.iconTheme": "material-icon-theme",
   "workbench.sideBar.location": "right",
   "editor.formatOnSave": true,
-  "editor.formatOnType": false
+  "editor.formatOnType": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
