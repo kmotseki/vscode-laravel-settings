@@ -1,32 +1,24 @@
-// Place your key bindings in this file to overwrite the defaults
+// Place your key bindings in this file to override the defaultsauto[]
 [
   {
-    "key": "cmd+b cmd+r",
-    "command": "phpunit.Test"
-  },
-  {
-    "key": "cmd+b cmd+p",
-    "command": "phpunit.LastTest"
-  },
-  {
-    "key": "shift+cmd+a",
-    "command": "phpunit.TestSuite"
-  },
-  {
-    "key": "cmd+1",
-    "command": "workbench.action.toggleSidebarVisibility"
-  },
-  {
-    "key": "cmd+b",
-    "command": "-workbench.action.toggleSidebarVisibility"
-  },
-  {
     "key": "ctrl+shift+right",
-    "command": "workbench.action.terminal.focusNext"
+    "command": "workbench.action.terminal.focusNextPane",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+cmd+right",
+    "command": "-workbench.action.terminal.focusNextPane",
+    "when": "terminalFocus"
   },
   {
     "key": "ctrl+shift+left",
-    "command": "workbench.action.terminal.focusPrevious"
+    "command": "workbench.action.terminal.focusPreviousPane",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "alt+cmd+left",
+    "command": "-workbench.action.terminal.focusPreviousPane",
+    "when": "terminalFocus"
   },
   {
     "key": "ctrl+shift+k",
@@ -41,12 +33,45 @@
     "command": "-workbench.action.terminal.new"
   },
   {
-    "key": "cmd+r",
-    "command": "better-phpunit.run"
+    "key": "cmd+1",
+    "command": "workbench.action.toggleSidebarVisibility"
   },
   {
-    "key": "cmd+k cmd+r",
-    "command": "-better-phpunit.run"
+    "key": "cmd+b",
+    "command": "-workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "alt+cmd+down",
+    "command": "-workbench.action.terminal.focusNextPane",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "ctrl+shift+right",
+    "command": "workbench.action.terminal.focusNext"
+  },
+  {
+    "key": "ctrl+shift+left",
+    "command": "workbench.action.terminal.focusPrevious"
+  },
+  {
+    "key": "cmd+j",
+    "command": "workbench.action.terminal.clear",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "cmd+k",
+    "command": "-workbench.action.terminal.clear",
+    "when": "terminalFocus"
+  },
+  {
+    "key": "shift+enter",
+    "command": "extension.auto-insert-semicolon",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+enter",
+    "command": "-extension.auto-insert-semicolon",
+    "when": "editorTextFocus"
   },
   {
     "key": "shift+cmd+r",
@@ -55,31 +80,5 @@
   {
     "key": "cmd+k cmd+p",
     "command": "-better-phpunit.run-previous"
-  },
-  {
-    "key": "shift+cmd+a",
-    "command": "better-phpunit.run-suite"
-  },
-  {
-    "key": "cmd+b cmd+b",
-    "command": "HookyQR.beautifyFile"
-  },
-  {
-    "key": "ctrl+f5",
-    "command": "workbench.action.reloadWindow"
-  },
-  {
-    "key": "shift+cmd+1",
-    "command": "workbench.action.toggleActivityBarVisibility"
-  },
-  {
-    "key": "cmd+k",
-    "command": "workbench.action.terminal.clear",
-    "when": "terminalFocus"
-  },
-  {
-    "key": "cmd+k",
-    "command": "-workbench.action.terminal.clear",
-    "when": "terminalFocus"
   }
 ]
