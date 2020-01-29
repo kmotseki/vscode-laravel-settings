@@ -60,7 +60,7 @@
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
     "python.jediEnabled": false,
     "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-    "php-cs-fixer.lastDownload": 1579157753217,
+    "php-cs-fixer.lastDownload": 1580055341798,
     "[json]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },

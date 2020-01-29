@@ -57,7 +57,7 @@
     },
     "name": "Bookmarks",
     "publisher": "alefragnani",
-    "version": "10.6.0"
+    "version": "10.7.0"
   },
   {
     "metadata": {
@@ -257,7 +257,7 @@
     },
     "name": "prettier-vscode",
     "publisher": "esbenp",
-    "version": "3.18.0"
+    "version": "3.20.0"
   },
   {
     "metadata": {
@@ -347,7 +347,7 @@
     },
     "name": "vscode-intelephense-client",
     "publisher": "bmewburn",
-    "version": "1.3.7"
+    "version": "1.3.8"
   },
   {
     "metadata": {
@@ -407,7 +407,7 @@
     },
     "name": "vsliveshare",
     "publisher": "ms-vsliveshare",
-    "version": "1.0.1482"
+    "version": "1.0.1510"
   },
   {
     "metadata": {
