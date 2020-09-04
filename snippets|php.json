@@ -1,0 +1,23 @@
+{
+	"Test Setup": {
+		"prefix": "tests",
+		"body": [
+			"public function setup(): void",
+			"{",
+			"  parent:: setup();",
+			"}"
+		],
+		"description": "Create Setup function for test"
+	},
+	"Test Function": {
+		"prefix": "test",
+		"body": [
+			"/** @test */",
+			"public function $1()",
+			"{",
+			"  $$this->assertInstanceOf();",
+			"}"
+		],
+		"description": "Create a test function skeleton"
+	},
+}

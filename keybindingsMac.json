@@ -80,5 +80,29 @@
   {
     "key": "cmd+k cmd+p",
     "command": "-better-phpunit.run-previous"
+  },
+  {
+    "key": "shift+cmd+g",
+    "command": "workbench.view.scm"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "-workbench.view.scm"
+  },
+  {
+    "key": "shift+cmd+a",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "alt+c alt+e",
+    "command": "workbench.files.action.collapseExplorerFolders"
+  },
+  {
+    "key": "ctrl+shift+`",
+    "command": "workbench.panel.terminal.focus"
+  },
+  {
+    "key": "shift+cmd+e",
+    "command": "workbench.explorer.fileView.focus"
   }
 ]
